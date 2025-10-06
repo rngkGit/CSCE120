@@ -21,3 +21,6 @@ DerivedData/
 
 # Homework folder
 Homework/
+
+# vscode file
+.vscode
