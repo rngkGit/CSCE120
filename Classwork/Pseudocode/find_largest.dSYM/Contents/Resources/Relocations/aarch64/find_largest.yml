@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rngk/Projects/VSProjects/CSCE120/Pseudocode/find_largest'
+relocations:     []
+...

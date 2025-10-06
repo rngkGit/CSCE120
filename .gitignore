@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# macOS Finder metadata
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# macOS Xcode files
+*.xcworkspace
+*.xcuserdata
+*.xcscheme
+DerivedData/
+
+# Homework folder
+Homework/
