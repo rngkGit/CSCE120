@@ -3,6 +3,12 @@
 #include <string>
 #include "player.h"
 
+Player::Player() {
+    name = "John Doe";
+    jersey_number = 0;
+    position = "???";
+}
+
 void Player::set_name(const std::string& new_name) {
     name = new_name;
 }
